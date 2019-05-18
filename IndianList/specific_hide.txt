@@ -219,3 +219,7 @@ malayalamonlinenews.com##iframe[src*="MalusKitchens"]
 ujyaaloonline.com##img[alt="ad"]
 nepaljapan.com##img[alt="ads"]
 manithan.com##span[id] > iframe[id]:only-child
+lankadeepa.lk##a[href*="/images/ads/"]
+tharunaya.us###ads6
+derana.lk,adaderana.lk###onload-popup
+derana.lk,adaderana.lk##.in.fade.modal-backdrop

@@ -114,6 +114,8 @@ _banner$image,domain=poriborton.com
 ||abnews24.com^*/Well-Add.gif
 ||abnews24.com^*/Yousuf.gif
 ||ajabgjab.com/FeedifySW.js
+||ananmanan.lk/banners/$image
+@@||ananmanan.lk/banners/sinha$image
 ||asianmetronews.com^*dcompanie.jpg
 ||asianmetronews.com^*thoolikatv.jpg
 ||bccfalna.com/BccFalnaAD.png
